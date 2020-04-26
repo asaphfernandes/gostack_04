@@ -1,3 +1,6 @@
 # Desafio 04: Conceitos do React Native
 
 https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-react-native
+
+<img src='./git_assets/android.png' />
+<img src='./git_assets/passed-tests.png' />
